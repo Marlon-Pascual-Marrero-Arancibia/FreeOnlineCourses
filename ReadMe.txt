@@ -1,0 +1,1 @@
+This is a directory for the Javascript projects which are in the Free Code Camp JavaScript course. 
